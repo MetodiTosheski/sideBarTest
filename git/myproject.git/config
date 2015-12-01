@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+
+[remote "hub"]
+  url = C:/Users/Metodi Tosheski/Documents/GitHub/PyramidSolution/sideBarTest/git/myproject.git
+  fetch = +refs/heads/*:refs/remotes/hub/*
